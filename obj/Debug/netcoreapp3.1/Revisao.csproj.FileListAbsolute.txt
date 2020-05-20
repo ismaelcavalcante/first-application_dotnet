@@ -1,0 +1,13 @@
+C:\Users\ismae\OneDrive\Documentos\Digital Innovation One\bootcamp Fullstack Developer Banco Carrefour\Primeiros passos com .NET + C#\Revisao\bin\Debug\netcoreapp3.1\Revisao.exe
+C:\Users\ismae\OneDrive\Documentos\Digital Innovation One\bootcamp Fullstack Developer Banco Carrefour\Primeiros passos com .NET + C#\Revisao\bin\Debug\netcoreapp3.1\Revisao.deps.json
+C:\Users\ismae\OneDrive\Documentos\Digital Innovation One\bootcamp Fullstack Developer Banco Carrefour\Primeiros passos com .NET + C#\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.json
+C:\Users\ismae\OneDrive\Documentos\Digital Innovation One\bootcamp Fullstack Developer Banco Carrefour\Primeiros passos com .NET + C#\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.dev.json
+C:\Users\ismae\OneDrive\Documentos\Digital Innovation One\bootcamp Fullstack Developer Banco Carrefour\Primeiros passos com .NET + C#\Revisao\bin\Debug\netcoreapp3.1\Revisao.dll
+C:\Users\ismae\OneDrive\Documentos\Digital Innovation One\bootcamp Fullstack Developer Banco Carrefour\Primeiros passos com .NET + C#\Revisao\bin\Debug\netcoreapp3.1\Revisao.pdb
+C:\Users\ismae\OneDrive\Documentos\Digital Innovation One\bootcamp Fullstack Developer Banco Carrefour\Primeiros passos com .NET + C#\Revisao\obj\Debug\netcoreapp3.1\Revisao.csprojAssemblyReference.cache
+C:\Users\ismae\OneDrive\Documentos\Digital Innovation One\bootcamp Fullstack Developer Banco Carrefour\Primeiros passos com .NET + C#\Revisao\obj\Debug\netcoreapp3.1\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\ismae\OneDrive\Documentos\Digital Innovation One\bootcamp Fullstack Developer Banco Carrefour\Primeiros passos com .NET + C#\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfoInputs.cache
+C:\Users\ismae\OneDrive\Documentos\Digital Innovation One\bootcamp Fullstack Developer Banco Carrefour\Primeiros passos com .NET + C#\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfo.cs
+C:\Users\ismae\OneDrive\Documentos\Digital Innovation One\bootcamp Fullstack Developer Banco Carrefour\Primeiros passos com .NET + C#\Revisao\obj\Debug\netcoreapp3.1\Revisao.dll
+C:\Users\ismae\OneDrive\Documentos\Digital Innovation One\bootcamp Fullstack Developer Banco Carrefour\Primeiros passos com .NET + C#\Revisao\obj\Debug\netcoreapp3.1\Revisao.pdb
+C:\Users\ismae\OneDrive\Documentos\Digital Innovation One\bootcamp Fullstack Developer Banco Carrefour\Primeiros passos com .NET + C#\Revisao\obj\Debug\netcoreapp3.1\Revisao.genruntimeconfig.cache
